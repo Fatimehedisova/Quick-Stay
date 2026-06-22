@@ -179,10 +179,10 @@ const values = [
 ];
 
 const team = [
-  { name: "Togrul Hasanov", role: "Founder & CEO", img: "https://i.pravatar.cc/160?img=12" },
-  { name: "Leman Rzali", role: "Head of Product", img: "https://i.pravatar.cc/160?img=45" },
-  { name: "Avery Johnson", role: "Operations Lead", img: "https://i.pravatar.cc/160?img=33" },
-  { name: "Jordan Lee", role: "Guest Experience", img: "https://i.pravatar.cc/160?img=15" },
+  { name: "Togrul Hamzayev", role: "Founder & CEO", img: "https://i.pravatar.cc/160?img=12" },
+  { name: "Leman Rzali", role: "Team Leader", img: "https://i.pravatar.cc/160?img=45" },
+  { name: "Aytac Eskerova", role: "Quality Assurance Engineer", img: "https://i.pravatar.cc/160?img=33" },
+  { name: "Fatime Hedisova", role: "Front-end Engineer", img: "https://i.pravatar.cc/160?img=15" },
 ];
 
 /* ---------------------------------- Page ---------------------------------- */
